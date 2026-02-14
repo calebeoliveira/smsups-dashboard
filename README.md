@@ -4,6 +4,9 @@ A Go desktop application that connects to SMS BRASIL UPS devices via USB serial 
 
 Compatible with the [dmslabsbr/smsUps](https://github.com/dmslabsbr/smsUps) Python project's configuration format.
 
+<img width="609" height="566" alt="image" src="https://github.com/user-attachments/assets/b412c284-5631-49be-8c6d-08330254496d" />
+Screenshot using my SMS Manager III (1500VA)
+
 ## Requirements
 
 - Go 1.21+
